@@ -5,5 +5,5 @@ Tłumaczenie przewodnika [Teach Yourself Computer Science] (https://teachyoursel
 A Polish translation of [Teach Yourself Computer Science] (https://teachyourselfcs.com/).
 
 ## Treść / Content
-*[Original (English)] (https://teachyourselfcs.com/)
-*[Polski](TeachYourselfCS-PL.md)
+* [Original (English)](https://teachyourselfcs.com/)
+* [Polski](TeachYourselfCS-PL.md)
