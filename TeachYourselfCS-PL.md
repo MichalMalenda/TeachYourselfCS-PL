@@ -34,4 +34,4 @@ Deutsche Übersetzung (German) by Ahmed Omran
 W skrócie / TL;DR:
 Naucz się wszystkich dziewięciu przedmiotów w mniej więcej ten samej kolejności, w której je przedstawiliśmy poniżej.
 
-Study all nine subjects below, in roughly the presented order, using either the suggested textbook or video lecture series, but ideally both. Aim for 100-200 hours of study of each topic, then revisit favorites throughout your career 🚀.
+Study all nine subjects below, in roughly the presented order, using either the suggested textbook or video lecture series, but ideally both. Aim for 100-200 hours of study of each topic, then revisit favorites throughout your career 🚀
